@@ -1,3 +1,5 @@
+// Not my code. Provided by the University of Texas at Dallas. This is used for loading the shader files for the program.
+
 #ifndef SHADER_H
 #define SHADER_H
 
